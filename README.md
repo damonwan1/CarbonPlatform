@@ -1,2 +1,1 @@
-# CarbonPlatform-backend
-同化平台后端
+# CarbonPlatform-system source codes for editor
